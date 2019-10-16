@@ -1,1 +1,2 @@
 First file in a container for git test
+Added second line
