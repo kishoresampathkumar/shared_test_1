@@ -1,3 +1,4 @@
 First file in a container for git test
 Added second line
 Added a third line
+Guest1 adding a fourth line
