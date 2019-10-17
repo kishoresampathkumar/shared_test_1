@@ -1,3 +1,4 @@
+Added a 0th new line
 First file in a container for git test
 Added second line
 Added a third line
