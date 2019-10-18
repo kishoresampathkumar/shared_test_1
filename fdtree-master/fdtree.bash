@@ -442,3 +442,4 @@ then
     echo "DIRECTORY REMOVE TIME IN, OUT, TOTAL = "$tin, $tout, $ttot
     echo -e "\tDirectory removals per second = " $results
 fi
+exit 0
